@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btn_height">36dp</dimen>
+    <dimen name="btn_font_size">20dp</dimen>
+    <dimen name="edit_height">40dp</dimen>
+    <dimen name="edit_font_size">20dp</dimen>
+</resources>

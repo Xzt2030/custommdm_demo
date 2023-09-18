@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="text_style">
+        <item name="android:textColor">@color/edit_font_color</item>
+        <item name="android:textSize">@dimen/edit_font_size</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <style name="edit_style">
+        <item name="android:background">@drawable/edit_text_background</item>
+        <item name="android:textColor">@color/edit_font_color</item>
+        <item name="android:textSize">@dimen/edit_font_size</item>
+        <item name="android:textColorHint">@color/edit_hint_color</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:focusableInTouchMode">true</item>
+    </style>
+
+    <style name="linearlayout_style">
+        <item name="android:gravity">center</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="background">@drawable/gradient_border</item>
+    </style>
+
+    <style name="Button3DStyle" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/button_3d_selector</item>
+        <item name="android:textColor">@color/btn_font_color</item>
+    </style>
+</resources>

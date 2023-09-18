@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<class xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        name="REBOOT"
+        icon="START"
+        className=""></item>
+    <item
+        name="SHUTDOWN"
+        icon="START"
+        className=""></item>
+    <item
+        name="FACTORY RESET"
+        icon="START"
+        className=""></item>
+    <item
+        name="INFORMATION"
+        icon="MORE"
+        className="InfoDialog"></item>
+    <item
+        name="APK"
+        icon="MORE"
+        className="ApkDialog"></item>
+    <item
+        name="OTA"
+        icon="MORE"
+        className="OtaDialog"></item>
+    <item
+        name="WIFI"
+        icon="MORE"
+        className="WifiDialog"></item>
+    <item
+        name="LOCATION"
+        icon="MORE"
+        className="LocationDialog"></item>
+    <item
+        name="AIRPLANE"
+        icon="MORE"
+        className="AirplaneDialog"></item>
+    <item
+        name="SIM"
+        icon="MORE"
+        className="SimDialog"></item>
+    <item
+        name="BLUETOOTH"
+        icon="MORE"
+        className="BluetoothDialog"></item>
+    <item
+        name="AUTO ROTATIONS"
+        icon="MORE"
+        className="RotationDialog"></item>
+    <item
+        name="KEYS"
+        icon="MORE"
+        className="KeysDialog"></item>
+    <item
+        name="STATUS BAR"
+        icon="MORE"
+        className="StatusBarDialog"></item>
+    <item
+        name="NAVIGATION BAR"
+        icon="MORE"
+        className="NavigationBarDialog"></item>
+    <item
+        name="SCREEN"
+        icon="MORE"
+        className="ScreenDialog"></item>
+    <item
+        name="VOLUME"
+        icon="MORE"
+        className="VolumeDialog"></item>
+    <item
+        name="LANGUAGE"
+        icon="MORE"
+        className="LanguageDialog"></item>
+    <item
+        name="DATE &amp;TIME"
+        icon="MORE"
+        className="DateTimeDialog"></item>
+    <item
+        name="TIME ZONE"
+        icon="MORE"
+        className="TimeZoneDialog"></item>
+<!--    <item-->
+<!--        name="APN"-->
+<!--        icon="MORE"-->
+<!--        className="ApnDialog"></item>-->
+<!--    <item-->
+<!--        name="PUK"-->
+<!--        icon="MORE"-->
+<!--        className="PukDialog"></item>-->
+    <item
+        name="LAUNCHER"
+        icon="MORE"
+        className="LauncherDialog"></item>
+    <item
+        name="PASSWORD"
+        icon="MORE"
+        className="PasswordDialog"></item>
+    <item
+        name="SYSTEM MODE"
+        icon="MORE"
+        className="SystemModeDialog"></item>
+</class>

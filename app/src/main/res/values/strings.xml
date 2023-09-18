@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">MDM_Custom</string>
+    <string name="btn_enable">ENABLE</string>
+    <string name="btn_disable">DISABLE</string>
+    <string name="btn_get">GET</string>
+    <string name="btn_set">SET</string>
+
+
+<!--    CustomMDM Interface start    -->
+    <string name="reboot">REBOOT</string>
+    <string name="shutdown">SHUTDOWN</string>
+    <string name="install">INSTALL</string>
+    <string name="uninstall">UNINSTALL</string>
+    <string name="ota">OTA</string>
+    <string name="ota_result">OTA RESULT</string>
+    <string name="wifi">WIFI</string>
+    <string name="wifi_ip">WIFI IP</string>
+    <string name="wifi_mac">WIFI MAC</string>
+    <string name="intensity">INTENSITY</string>
+    <string name="wifi_iccid">ICCID</string>
+    <string name="wifi_dhcp">DHCP</string>
+    <string name="wifi_static">SET WIFI STATIC</string>
+    <string name="location">LOCATION</string>
+    <string name="sim">SIM</string>
+    <string name="imsi">IMSI</string>
+    <string name="imei">IMEI</string>
+    <string name="key">KEY</string>
+    <string name="volume_key">VOLUME</string>
+    <string name="back_key">BACK</string>
+    <string name="home_key">HOME</string>
+    <string name="recent_key">RECENT</string>
+    <string name="power_key">POWER</string>
+    <string name="status_bar">STATUE BAR</string>
+    <string name="nav_bar">NAVIGATION BAR</string>
+    <string name="screen">SCREEN</string>
+    <string name="screen_brightness">SET BRIGHTNESS</string>
+    <string name="volume">SET VOLUME</string>
+    <string name="language">LANGUAGE</string>
+    <string name="timezone">TIME ZONE</string>
+    <string name="development">DEVELOPMENT</string>
+    <string name="debug_model">DEBUG MODEL</string>
+    <string name="launcher">LAUNCHER</string>
+    <string name="password">PASSWORD</string>
+    <string name="sleep">SLEEP</string>
+    <string name="airplane_mode">AIRPLANE MODE</string>
+    <string name="data_time">DATE &amp; TIME</string>
+    <string name="apk">APK</string>
+    <string name="bluetooth">BLUETOOTH</string>
+    <string name="factory_reset">FACTORY RESET</string>
+    <string name="retations">RETATIONS</string>
+    <string name="apn">APN</string>
+    <string name="puk">PUK</string>
+    <string name="rom_version">ROM VERSION</string>
+    <string name="storage">STORAGE</string>
+    <string name="brand">BRAND</string>
+    <string name="manufacture">MANUFACTURE</string>
+    <string name="android_version">ANDROID VERSION</string>
+    <string name="sn">SN</string>
+    <string name="model">MODEL</string>
+    <string name="cpu">CPU</string>
+    <string name="memory">MEMORY</string>
+    <string name="firmware_version">FIRMWARE VERSION</string>
+    <string name="hardware_version">HARDWARE VERSION</string>
+    <string name="property">PROPERTY</string>
+<!--    CustomMDM Interface end    -->
+</resources>
