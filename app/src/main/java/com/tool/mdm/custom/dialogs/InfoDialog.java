@@ -16,6 +16,9 @@ public class InfoDialog extends AbsBaseDialog {
     @Override
     void buttonClickAction(int id) {
         switch (id) {
+            case R.id.btn_get_version_name:
+                Toast.makeText(mContext, CustomAPI.getMdmVersionName(), Toast.LENGTH_SHORT).show();
+                break;
             case R.id.btn_get_rom:
                 Toast.makeText(mContext, CustomAPI.getRomVersion(), Toast.LENGTH_SHORT).show();
                 break;
@@ -57,6 +60,9 @@ public class InfoDialog extends AbsBaseDialog {
                 break;
             case R.id.btn_get_cpu_percent:
                 Toast.makeText(mContext, CustomAPI.getCpuPercent(), Toast.LENGTH_SHORT).show();
+                break;
+            case R.id.btn_get_battery_health:
+                Toast.makeText(mContext, "" + CustomAPI.getBatteryHealth(), Toast.LENGTH_SHORT).show();
                 break;
             case R.id.btn_get_prop:
                 String propName = getEditTest(R.id.et_get_prop);
